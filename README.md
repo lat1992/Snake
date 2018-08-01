@@ -1,2 +1,2 @@
 # Snake
-nibler epitech
+nibler
